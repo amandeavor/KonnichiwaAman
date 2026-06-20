@@ -19,7 +19,7 @@ jobs:
           filename: github-metrics.svg
           
           # Options
-          user: KonnichiwaAman
+          user: amandeavor
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
